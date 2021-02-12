@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "app-mobile",
+    "name": "Gangabox App",
     "slug": "app-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -13,17 +13,19 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gangabox.pruebas",
+      "buildNumber": "1.0.0"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.gangabox.pruebas",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
