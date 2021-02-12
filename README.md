@@ -31,7 +31,7 @@ Para la plataforma que desarrolle, se muestra un inicio de sesión o registro:
 En este caso damos click en la parte de registrarse, llenamos los datos y estamos dentro. Después solo damos en iniciar sesión.
 ![](https://prueba-gangabox.netlify.app/assets/img/Registro.png)
 
-De modo que en el Home de la plataforma web al iniciar sesión, se debe visualizar los productos y las opciones: **Exportar productos a un archivo excel ** y **cargar archivo excel**. Esta sería la vista:
+De modo que en el Home de la plataforma web al iniciar sesión, se debe visualizar los productos y las opciones: **Exportar productos a un archivo excel** y **cargar archivo excel**. Esta sería la vista:
 ![](https://prueba-gangabox.netlify.app/assets/img/Home.png)
 
 Se muestran los productos actuales en la BD y los botones para subir un archivo desde la computadora o descargar en excel los productos para su modificación.
@@ -131,9 +131,8 @@ _Herramientas con las que se construyeron la plataforma y app mobile_
 
 #### Backend
 
-- Laravel 8 l](https://nodejs.org/es/) - Entorno de ejecución de JS para nuestra API
 - [Node JS](https://nodejs.org/es/)-Entorno para preprocesar todo nuestros archivos estáticos o librerías externas de frontend
-- [Laravel](https://laravel.com/) - Framework para aplicaciones web robustas usando PHP, con el cual creamos nuestra lógica de la plataforma y la API
+- [Laravel 8](https://laravel.com/) - Framework para aplicaciones web robustas usando PHP, con el cual creamos nuestra lógica de la plataforma y la API
 
 #### Database
 
@@ -153,4 +152,4 @@ _Herramientas con las que se construyeron la plataforma y app mobile_
 
 Este proyecto está bajo la Licencia (MIT LICENCE) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-⌨️ con ❤️ por [JimmyVazz](https://github.com/JimmyVazz/) 😊 para [Gangabox](https://www.gangabox.com//)
+⌨️ con ❤️ por [JimmyVazz](https://github.com/JimmyVazz/) 😊 para [Gangabox](https://www.gangabox.com/)
